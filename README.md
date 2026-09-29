@@ -1,3 +1,5 @@
+> **Historical source:** maintenance and new releases moved to [lsp](https://github.com/awangs1986/pi-coffee/tree/main/packages/lsp). See [MIGRATED.md](MIGRATED.md). The documentation below describes the retained standalone release.
+
 # pi-coffee-lsp
 
 Version **0.4.1** · [Changelog](CHANGELOG.md) · [Upgrade and rollback](docs/releases.md).
